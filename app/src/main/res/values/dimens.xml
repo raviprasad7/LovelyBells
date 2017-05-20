@@ -11,4 +11,7 @@
     <!-- Vendor Fragment Margin -->
     <dimen name="button_margin">40dp</dimen>
     <dimen name="button_right_margin">20dp</dimen>
+
+    <!--List Item Font Size-->
+    <dimen name="listItemSize">13sp</dimen>
 </resources>

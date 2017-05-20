@@ -6,12 +6,15 @@
 
     <string name="action_settings">Settings</string>
 
-    <!-- Vendor Fragment Strings-->
+    <!-- Home Page Strings-->
     <string name="venue">Venue</string>
     <string name="photography">Photography</string>
     <string name="makeup">Makeup</string>
     <string name="catering">Catering</string>
     <string name="invitation">Invitation</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
 
     <string name="blog">Blog</string>
 

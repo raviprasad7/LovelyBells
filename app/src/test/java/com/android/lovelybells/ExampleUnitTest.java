@@ -1,4 +1,4 @@
-package com.ravi_3882.lovelybells;
+package com.android.lovelybells;
 
 import org.junit.Test;
 
